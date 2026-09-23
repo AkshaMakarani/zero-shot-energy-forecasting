@@ -1,0 +1,22 @@
+# Environments & caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Thesis manuscripts (kept private)
+*.docx
+*.pdf
+~$*
+
+# Large data / results (not committed in code-only repo)
+*.parquet
+*.csv
+
+# Figures output
+figures_thesis/
+
+# Backups / temp
+*.bak
+*.tmp
