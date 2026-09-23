@@ -4,7 +4,7 @@ Analysis code for the Master's thesis *"Temporal Granularity and Forecast Config
 for Zero-Shot Energy Forecasting: A Scenario-Oriented Evaluation of Time-Series
 Foundation Models."*
 
-The study evaluates three zero-shot time-series foundation models — Chronos-Bolt-Small,
+The study evaluates three zero-shot time-series foundation models Chronos-Bolt-Small,
 TimesFM-2.5-200M and Moirai-1.1-R-Small on electricity demand, solar and wind
 generation across native, hourly and daily temporal representations, considering
 accuracy (relMAE vs a seasonal-naive benchmark), context/horizon sensitivity,
